@@ -1,5 +1,6 @@
 # java-input-benchmark
 Simple Junit test for benchmarking different ways of inputing in java   
 
-> below is self explanatory test result 
-<img src="benchmark.pdf" alt="./benchmark.pdf">
+> Given is self explanatory test result 
+
+[benchmark](https://jigarwala.github.io/java-input-benchmark/benchmark.pdf)
